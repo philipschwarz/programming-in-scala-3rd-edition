@@ -1,0 +1,8 @@
+
+// 6.2 Constructing a Rational
+
+class Rational(n: Int, d: Int)
+
+new Rational(1, 3)
+new Rational(5, 7)
+
